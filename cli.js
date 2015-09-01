@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 var uncomment = require('./index.js');
 
 process.stdin.setEncoding('utf8');
