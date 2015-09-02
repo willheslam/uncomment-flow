@@ -1,6 +1,6 @@
 {
   "name": "uncomment-flow",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Turns flow comment syntax into pure flow syntax.",
   "main": "index.js",
   "scripts": {
